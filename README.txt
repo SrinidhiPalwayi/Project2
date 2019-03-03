@@ -1,0 +1,1 @@
+spalwayi3903211749To run the code for the first part of the project please run ABAGAIL/src/runner.javaTo run the code for the second part of the project please run ABAGAIL/src/FourPeaksTest.java, ABAGAIL/src/TravelingSalesmanTest.java, and ABAGAIL/src/FlipFlopTest.java
